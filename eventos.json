@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Show da Banda X",
+    "data": "15/09/2025",
+    "local": "Teatro Municipal",
+    "arquivo": "eventos/show-banda-x.pdf"
+  },
+  {
+    "nome": "Festival de Música",
+    "data": "20/09/2025",
+    "local": "Praça Central",
+    "arquivo": "eventos/festival-musica.pdf"
+  }
+]
